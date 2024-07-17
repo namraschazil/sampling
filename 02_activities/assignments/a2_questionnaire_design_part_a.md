@@ -16,28 +16,49 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#3`
 
 Describe the purpose of your survey:
 ```
+
 write your answer here...
 ```
+The purpose of the survey is to find the relationship between music taste and age as the former relates to perception of music taste. One part of the survey will try to find a relation between individuals of different ages and their music taste while the other part of the survey will focus on the comparison between music taste of an individual during various stages of his life. 
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 write your answer here...
 ```
+Target population:
+People residing in Toronto between the ages of 18-50 years of age.
+
+Sampling frame:
+Toronto residents who have a valid email address and are aged 18-50 and will be contacted randomly through their email address to complete the survey.
+
+Sampling units:
+An individual between the ages of 18-50 years
+
+Sampling strategy:
+Simple random sampling- anyone aged 18-50 years with a valid email address will be listed and will be randomly contacted through their email address. edited after feedback : A better approach to sampling could be stratified sampling as we could make stratas based on our population so in this case age, profession, interests etc and then so random samoling within those strata to get a better picture of the sample.
 
 Your 5-10 question survey:
 ```
 1. write your question here...
+1.	What is your current age and profession?
 2. write your question here...
+2.	Do you play any musical instrument? If yes then please mention.
 3. write your question here...
+3.	Do you listen to music? 
 4. write your question here...
+4.	What kind of music do you generally listen to? List top 3 favourites
 5. write your question here...
+5.	Have you always listened to the same kind of music?
 6. write your question here... (optional)
+6.	Did you play an instrument in the past that you don’t play anymore?
 7. write your question here... (optional)
+7.	Did you listen to a genre of music in the past that you don’t listen to anymore?
 8. write your question here... (optional)
+8.	Do you listen to different music depending on your mood?
 9. write your question here... (optional)
 10. write your question here... (optional)
 ```
