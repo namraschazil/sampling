@@ -39,7 +39,7 @@ Sampling units:
 An individual between the ages of 18-50 years
 
 Sampling strategy:
-Simple random sampling- anyone aged 18-50 years with a valid email address will be listed and will be randomly contacted through their email address.
+Simple random sampling- anyone aged 18-50 years with a valid email address will be listed and will be randomly contacted through their email address. edited after feedback : A better approach to sampling could be stratified sampling as we could make stratas based on our population so in this case age, profession, interests etc and then so random samoling within those strata to get a better picture of the sample.
 
 Your 5-10 question survey:
 ```
